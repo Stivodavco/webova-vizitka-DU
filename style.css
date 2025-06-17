@@ -1,6 +1,7 @@
 body {
     font-family: "Trebuchet MS";
     margin: 0;
+    height: 600px;
 }
 
 .sticky-header {
